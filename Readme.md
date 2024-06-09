@@ -17,8 +17,8 @@ To set up and run this project, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/harrrshall/rag_from_scratch/
+   cd rag_from_scratch
    
 2. **Install the required packages:**
    ```bash
